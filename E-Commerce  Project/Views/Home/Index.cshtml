@@ -1,0 +1,182 @@
+﻿@{
+    ViewData["Title"] = "Inicio - Zapalux";
+}
+
+<!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm py-3">
+    <div class="container d-flex justify-content-between align-items-center">
+        
+
+        <!-- Toggler para móvil -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" 
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Menú centrado (con tag helpers de MVC) -->
+        <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+            <ul class="navbar-nav text-center">
+                <li class="nav-item mx-3">
+                    <a class="nav-link fw-semibold text-dark" asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
+                </li>
+                <li class="nav-item mx-3">
+                    <a class="nav-link fw-semibold text-dark" asp-area="" asp-controller="Products" asp-action="Index">Colección</a>
+                </li>
+                <li class="nav-item mx-3">
+                    <a class="nav-link fw-semibold text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Nosotros</a>
+                </li>
+                <li class="nav-item mx-3">
+                    <a class="nav-link fw-semibold text-dark" asp-area="" asp-controller="Contact" asp-action="Index">Contacto</a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- Carrito -->
+        <div class="d-none d-lg-block">
+            <a href="#" class="btn btn-dark position-relative">
+                🛒 Carrito
+                <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger" id="cartCount">
+                    0
+                </span>
+            </a>
+        </div>
+    </div>
+</nav>
+
+<!-- BANNER PRINCIPAL -->
+<section class="hero position-relative text-white text-center d-flex align-items-center justify-content-center" 
+         style="height: 70vh; background: url('/images/banner.jpg') center/cover;">
+    <div class="overlay position-absolute top-0 start-0 w-100 h-100 bg-dark opacity-50"></div>
+    <div class="container position-relative">
+        <h1 class="display-3 fw-bold text-uppercase">NOT HERE TO BE LIKED</h1>
+        <p class="lead">Diseño rompedor para un impacto total</p>
+        <div class="mt-4">
+            <a href="#" class="btn btn-light btn-lg me-3">Comprar</a>
+            <a href="#productos" class="btn btn-outline-light btn-lg">Ver más</a>
+        </div>
+    </div>
+</section>
+
+<!-- CARRUSEL DE PRODUCTOS DESTACADOS -->
+<section class="carousel-section py-5 bg-white">
+    <div class="container text-center">
+        <h2 class="fw-bold text-center mb-4">Destacados</h2>
+
+        <div id="productCarousel" class="carousel slide mb-4" data-bs-ride="carousel" data-bs-interval="3000" data-bs-pause="hover">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="~/images/nike_zoom.jpg" class="d-block w-100 rounded shadow" alt="Producto 1">
+                    <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded p-3">
+                        <h5>Nike Zoom</h5>
+                        <p>Diseño dinámico y comodidad total.</p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/Adidas_Superstar.jpg" class="d-block w-100 rounded shadow" alt="Producto 2">
+                    <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded p-3">
+                        <h5>Air Max Pro</h5>
+                        <p>Tecnología avanzada y estilo urbano.</p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/flyenase.jpg" class="d-block w-100 rounded shadow" alt="Producto 3">
+                    <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded p-3">
+                        <h5>FlyEase</h5>
+                        <p>Comodidad, velocidad y diseño único.</p>
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#productCarousel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#productCarousel" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            </button>
+        </div>
+
+        <a href="#productos" class="btn btn-dark btn-lg shadow">Ver productos</a>
+    </div>
+</section>
+
+<!-- SECCIÓN DE PRODUCTOS -->
+<section id="productos" class="products py-5 text-center bg-light">
+    <div class="container">
+        <h2 class="fw-bold mb-4">Novedades</h2>
+        <div class="row">
+
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <img src="/images/nike_zoom.jpg" class="card-img-top" alt="Zapato 1">
+                    <div class="card-body">
+                        <h5 class="card-title">Nike Air Max</h5>
+                        <p class="card-text">Comodidad y estilo urbano.</p>
+                        <button class="btn btn-dark add-to-cart" data-product="Nike Air Max">Agregar al carrito</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <img src="/images/Adidas_Superstar.jpg" class="card-img-top" alt="Zapato 2">
+                    <div class="card-body">
+                        <h5 class="card-title">Adidas Superstar</h5>
+                        <p class="card-text">Clásico y elegante.</p>
+                        <button class="btn btn-dark add-to-cart" data-product="Adidas Superstar">Agregar al carrito</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <img src="/images/flyenase.jpg" class="card-img-top" alt="Zapato 3">
+                    <div class="card-body">
+                        <h5 class="card-title">Puma RS-X</h5>
+                        <p class="card-text">Diseño moderno y deportivo.</p>
+                        <button class="btn btn-dark add-to-cart" data-product="Puma RS-X">Agregar al carrito</button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script>
+        let cartCount = 0;
+        const cartCountElement = document.getElementById("cartCount");
+
+        document.querySelectorAll(".add-to-cart").forEach(button => {
+            button.addEventListener("click", () => {
+                cartCount++;
+                cartCountElement.textContent = cartCount;
+                button.textContent = "Agregado ✅";
+                button.classList.replace("btn-dark", "btn-success");
+                setTimeout(() => {
+                    button.textContent = "Agregar al carrito";
+                    button.classList.replace("btn-success", "btn-dark");
+                }, 1500);
+            });
+        });
+
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener("click", function (e) {
+                const target = document.querySelector(this.getAttribute("href"));
+                if (target) {
+                    e.preventDefault();
+                    target.scrollIntoView({ behavior: "smooth" });
+                }
+            });
+        });
+    </script>
+}
+
+<style>
+    html { scroll-behavior: smooth; }
+    .hero { position: relative; }
+    .hero .overlay { z-index: 1; }
+    .hero .container { z-index: 2; }
+    .navbar-nav .nav-link:hover { color: #007bff; transition: color 0.3s ease; }
+    .carousel-item img { height: 500px; object-fit: cover; }
+    .carousel-caption h5, .carousel-caption p { color: #fff; }
+</style>

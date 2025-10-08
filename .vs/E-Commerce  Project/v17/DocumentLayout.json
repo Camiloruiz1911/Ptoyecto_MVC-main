@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|c:\\xampp_1\\htdocs\\e-commerce  project\\e-commerce  project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|solutionrelative:e-commerce  project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|c:\\xampp_1\\htdocs\\e-commerce  project\\e-commerce  project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|solutionrelative:e-commerce  project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|c:\\xampp_1\\htdocs\\e-commerce  project\\e-commerce  project\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|solutionrelative:e-commerce  project\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|c:\\xampp_1\\htdocs\\e-commerce  project\\e-commerce  project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|solutionrelative:e-commerce  project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|c:\\xampp_1\\htdocs\\e-commerce  project\\e-commerce  project\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|solutionrelative:e-commerce  project\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|c:\\xampp_1\\htdocs\\e-commerce  project\\e-commerce  project\\migrations\\20251001002550_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|solutionrelative:e-commerce  project\\migrations\\20251001002550_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|c:\\xampp_1\\htdocs\\e-commerce  project\\e-commerce  project\\migrations\\20251001002550_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|solutionrelative:e-commerce  project\\migrations\\20251001002550_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|c:\\xampp_1\\htdocs\\e-commerce  project\\e-commerce  project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|solutionrelative:e-commerce  project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|c:\\xampp_1\\htdocs\\e-commerce  project\\e-commerce  project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|solutionrelative:e-commerce  project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|c:\\xampp_1\\htdocs\\e-commerce  project\\e-commerce  project\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|solutionrelative:e-commerce  project\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|c:\\xampp_1\\htdocs\\e-commerce  project\\e-commerce  project\\e-commerce  project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|solutionrelative:e-commerce  project\\e-commerce  project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|c:\\xampp_1\\htdocs\\e-commerce  project\\e-commerce  project\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|solutionrelative:e-commerce  project\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|c:\\xampp_1\\htdocs\\e-commerce  project\\e-commerce  project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEC1C6E1-B239-420A-AD5B-16C2DB8E5ABF}|E-Commerce  Project\\E-Commerce  Project.csproj|solutionrelative:e-commerce  project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251001002550_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\Migrations\\20251001002550_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "E-Commerce  Project\\Migrations\\20251001002550_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\Migrations\\20251001002550_InitialCreate.Designer.cs",
+              "RelativeToolTip": "E-Commerce  Project\\Migrations\\20251001002550_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:58:19.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251001002550_InitialCreate.cs",
+              "DocumentMoniker": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\Migrations\\20251001002550_InitialCreate.cs",
+              "RelativeDocumentMoniker": "E-Commerce  Project\\Migrations\\20251001002550_InitialCreate.cs",
+              "ToolTip": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\Migrations\\20251001002550_InitialCreate.cs",
+              "RelativeToolTip": "E-Commerce  Project\\Migrations\\20251001002550_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:58:18.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "E-Commerce  Project\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "E-Commerce  Project\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-06T19:01:34.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "E-Commerce  Project\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "E-Commerce  Project\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:59:53.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce  Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "E-Commerce  Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T18:26:27.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce  Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "E-Commerce  Project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAUwF8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T18:26:34.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce  Project\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "E-Commerce  Project\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T18:26:30.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "E-Commerce  Project\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "E-Commerce  Project\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:58:19.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\tailwind.config.js",
+              "RelativeDocumentMoniker": "E-Commerce  Project\\tailwind.config.js",
+              "ToolTip": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\tailwind.config.js",
+              "RelativeToolTip": "E-Commerce  Project\\tailwind.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-06T18:35:10.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\appsettings.json",
+              "RelativeDocumentMoniker": "E-Commerce  Project\\appsettings.json",
+              "ToolTip": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\appsettings.json",
+              "RelativeToolTip": "E-Commerce  Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T18:26:22.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\Program.cs",
+              "RelativeDocumentMoniker": "E-Commerce  Project\\Program.cs",
+              "ToolTip": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\Program.cs",
+              "RelativeToolTip": "E-Commerce  Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:19:04.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\package.json",
+              "RelativeDocumentMoniker": "E-Commerce  Project\\package.json",
+              "ToolTip": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\package.json",
+              "RelativeToolTip": "E-Commerce  Project\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T18:25:59.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "E-Commerce  Project.csproj",
+              "DocumentMoniker": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\E-Commerce  Project.csproj",
+              "RelativeDocumentMoniker": "E-Commerce  Project\\E-Commerce  Project.csproj",
+              "ToolTip": "C:\\xampp_1\\htdocs\\E-Commerce  Project\\E-Commerce  Project\\E-Commerce  Project.csproj",
+              "RelativeToolTip": "E-Commerce  Project\\E-Commerce  Project.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T18:20:09.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
